@@ -19,7 +19,7 @@
 				{
 					"os": "windows",
 					"architecture": "i386",
-					"url": "https://static.tibia.com/launcher/tibiaclient-windows-current/package.json",
+					"url": "https://raw.githubusercontent.com/joseluis2g/files/main/client/package.json",
 					"assetsurl": "https://static.tibia.com/launcher/assets-current/assets.json"
 				}
 			]

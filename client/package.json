@@ -1,0 +1,16 @@
+{
+	"version": "13.12.13018",
+	"files": [
+		{
+			"url": "bin/inferna.exe.7z",
+			"localfile": "bin/inferna.exe",
+			"packedhash": "C2EAE32CA24BFA10C01188A5245F4A3BA8A50D14489A88764FAC9BF5411E4198",
+			"packedsize": 3644689,
+			"unpackedhash": "646856896D3921E9FA527FA104E6D2543750780721D62C95C5CE932C226B5E7D",
+			"unpackedsize": 18501392
+		}
+	],
+	"executable": "bin/client_launcher.exe",
+	"generation": "second",
+	"variant": "regular"
+}
