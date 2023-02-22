@@ -2,7 +2,7 @@
 	"version": "13.12.13018",
 	"files": [
 		{
-			"url": "bin/inferna.exe.7z",
+			"url": "bin/inferna.exe.lzma",
 			"localfile": "bin/inferna.exe",
 			"packedhash": "C2EAE32CA24BFA10C01188A5245F4A3BA8A50D14489A88764FAC9BF5411E4198",
 			"packedsize": 3644689,
