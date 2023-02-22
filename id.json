@@ -6,16 +6,6 @@
 				"os": "windows",
 				"architecture": "i386",
 				"url": "https://static.tibia.com/launcher/launcher-windows-current/package.json"
-			},
-			{
-				"os": "macos",
-				"architecture": "x86_64",
-				"url": "https://static.tibia.com/launcher/launcher-macos-current/package.json"
-			},
-			{
-				"os": "linux",
-				"architecture": "x86_64",
-				"url": "https://static.tibia.com/launcher/launcher-linux-current/package.json"
 			}
 		]
 	},
@@ -31,22 +21,10 @@
 					"architecture": "i386",
 					"url": "https://static.tibia.com/launcher/tibiaclient-windows-current/package.json",
 					"assetsurl": "https://static.tibia.com/launcher/assets-current/assets.json"
-				},
-				{
-					"os": "macos",
-					"architecture": "x86_64",
-					"url": "https://static.tibia.com/launcher/tibiaclient-macos-current/package.json",
-					"assetsurl": "https://static.tibia.com/launcher/assets-current/assets-macos.json"
-				},
-				{
-					"os": "linux",
-					"architecture": "x86_64",
-					"url": "https://static.tibia.com/launcher/tibiaclient-linux-current/package.json",
-					"assetsurl": "https://static.tibia.com/launcher/assets-current/assets.json"
 				}
 			]
 		}
 	],
-	"hardwaresurvey": "https://www.tibia.com/clientservices/hardwarereceiver.php",
+	"hardwaresurvey": "false",
 	"hints": "https://raw.githubusercontent.com/joseluis2g/inferna-public/main/json/hints.json"
 }
