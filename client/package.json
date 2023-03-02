@@ -12,8 +12,8 @@
 		{
 			"url": "bin/client.exe.lzma",
 			"localfile": "bin/client.exe",
-			"packedhash": "f0e608d5355b776ce74bd2cb4a660d8da42b996728af84087f5f232cf91a7d9c",
-			"packedsize": 4310062,
+			"packedhash": "fa6d7a6865ed22a2e82c8661b8e2c8036a7b6164b666b640a53428cf311c6bd6",
+			"packedsize": 4230635,
 			"unpackedhash": "320403b7940cf5a5586974602453522cee800a8fc4a3b14bad51036d6d94eb2f",
 			"unpackedsize": 19630864,
 			"executable": true
